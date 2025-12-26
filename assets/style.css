@@ -106,7 +106,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('./img/t_shirt_3.png');
+    /* background: url('./img/t_shirt_3.png'); */
     animation: float 20s infinite linear;
 }
 
